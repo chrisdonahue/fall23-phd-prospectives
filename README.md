@@ -1,4 +1,4 @@
-# Info for Fall 23 prospective PhD students for Chris Donahue
+# Info for Fall 23 prospective PhD students
 
 This repo contains info and FAQs for prospective PhD students of [Chris Donahue](https://chrisdonahue.com)'s yet-to-be-named lab in the Computer Science Department at CMU.
 
