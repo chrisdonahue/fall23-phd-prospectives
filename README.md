@@ -32,7 +32,7 @@ I am most directly looking for students w/ a technical background in ML, compute
 
 Note that CSD admits students to the _department_ rather than to _individual labs_. Hence, I can weigh in on admissions, but the final decisions are up to the department.
 
-### How many students am I looking to accept in year 1?
+### How many students am I looking to admit for Fall 23?
 
 Ideally one or two.
 
