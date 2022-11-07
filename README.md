@@ -32,4 +32,4 @@ I am most directly looking for students w/ a technical background in ML, compute
 
 ### Can I contact you w/ questions?
 
-Yes, you may contact me via the email address on my [personal homepage](https://chrisdonahue.com), though I may not be able to respond to all inquiries. If you have a general question about the application process, you can also open an issue on this GitHub page, which will have a higher likelihood of a response.
+Yes, you may contact me via the email address on my [personal homepage](https://chrisdonahue.com), though I may not be able to respond to all inquiries. If you have a general question about the application process, you can also [open an issue on this GitHub page](https://github.com/chrisdonahue/fall23-phd-prospectives/issues), which will have a higher likelihood of a response.
