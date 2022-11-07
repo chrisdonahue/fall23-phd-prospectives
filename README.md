@@ -1,6 +1,6 @@
 # Info for Fall 23 prospective PhD students
 
-[This page](https://github.com/chrisdonahue/fall23-phd-prospectives) contains info and FAQs for prospective PhD students of [Chris Donahue](https://chrisdonahue.com)'s yet-to-be-named lab in the Computer Science Department at CMU.
+This page contains info and FAQs for prospective PhD students of [Chris Donahue](https://chrisdonahue.com)'s yet-to-be-named lab in the Computer Science Department at CMU.
 
 ## About my lab
 
