@@ -12,7 +12,7 @@ My lab will generally work at the intersection of **ML, music, multimedia, and c
 
 ### How do I apply?
 
-**Apply via the main [CMU School of Computer Science PhD application](https://www.cs.cmu.edu/academics/graduate-admissions) by December 12th!**. Additional [instructions](https://www.cs.cmu.edu/academics/application_instructions) and [FAQs](https://www.cs.cmu.edu/academics/faq).
+**Apply via the main [CMU School of Computer Science PhD application](https://www.cs.cmu.edu/academics/graduate-admissions) by December 12th!** Additional [instructions](https://www.cs.cmu.edu/academics/application_instructions) and [FAQs](https://www.cs.cmu.edu/academics/faq).
 
 At CMU, the School of Computer Science (SCS) has many departments, one of which is (confusingly) named the Computer Science Department (CSD). I am affiliated w/ CSD, so **make sure to apply to CSD via the "Ph.D. in Computer Science"** option to ensure your application will be routed properly:
 
@@ -34,7 +34,7 @@ Note that CSD admits students to the _department_ rather than to _individual lab
 
 ### What will my lab be like?
 
-Hopefully pretty cool! Though many details may not materialize until next fall. Generally, I will strive to foster a diverse, inclusive, and fun group. I plan to lean into the interdisciplinary nature of our group and have regular lab meetings open not only to my students but also to interested folks from other departments. I am hoping to co-advise many of my students with other amazing faculty here at CMU, especially from MLD / HCII. I also hope to be able to retain an affiliation w/ [Google Magenta](https://magenta.tensorflow.org/), which may allow my students to work on research projects at Google for a duration.
+Hopefully pretty cool! Though many details may not materialize until next fall. Generally, I will strive to foster a diverse, inclusive, and fun group. I plan to lean into the interdisciplinary nature of our group and have regular lab meetings open not only to my students but also to interested folks from other groups (e.g. from [Roger Dannenberg's group](https://www.cs.cmu.edu/~music)) and departments. I am hoping to co-advise many of my students with other amazing faculty here at CMU, especially from MLD / HCII. I also hope to be able to retain an affiliation w/ [Google Magenta](https://magenta.tensorflow.org/), which may allow my students to work on research projects at Google for a duration.
 
 ### Can I contact you w/ questions?
 
