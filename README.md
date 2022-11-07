@@ -28,13 +28,13 @@ You should also specify that you want to work with me directly. Because I don't 
 
 ### What kind of students am I looking for?
 
-I am most directly looking for students w/ a technical background in ML, computer science, or engineering, as well as a background in some creative domain of interest and a desire to explore the use of ML in that domain. Ideally, you may already have some research experience or even publications. But these are very loose requirements and I am easily intrigued by passionate people from interesting backgrounds—please apply if you have any interest regardless of your background!
+I am most directly looking for students w/ a technical background in ML, computer science, or engineering, as well as a background in some creative domain of interest and a desire to explore the use of ML in that domain. Ideally, you may already have some research experience or even publications. But these are very loose requirements and I am easily intrigued by passionate people from interesting backgrounds—please apply if you have any interest regardless of your background! **I especially encourage students from groups historically underrepresented in computer science to apply**.
 
 Note that CSD admits students to the _department_ rather than to _individual labs_. Hence, I can weigh in on admissions, but the final decisions are up to the department.
 
-### How many students am I looking to admit for Fall 23?
+### What will my lab be like?
 
-Ideally one or two.
+Hopefully pretty cool! Though many details may not materialize until next fall. Generally, I will strive to foster a diverse, inclusive, and fun group. I plan to lean into the interdisciplinary nature of our group and have regular lab meetings open not only to my students but also to interested folks from other departments. I am hoping to co-advise many of my students with other amazing faculty here at CMU, especially from MLD / HCII. I also hope to be able to retain an affiliation w/ [Google Magenta](https://magenta.tensorflow.org/), which may allow my students to work on research projects at Google for a duration.
 
 ### Can I contact you w/ questions?
 
